@@ -287,14 +287,14 @@
     text-decoration: none;
 }
 
+.footer__social-icon {
+    width: 48px;
+}
+
 .footer__social-list{
     display: flex;
     list-style-type: none;
     justify-self: center;
     gap: 48px;
     margin-left: 28px;
-}
-
-.footer__social-icon {
-    width: 48px;
 }
