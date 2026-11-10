@@ -4,6 +4,7 @@
     align-items: center;
     padding: 40px 15px;
     margin-top: 50px;
+    margin-bottom: 53px;
     font-size: 18px;
     text-decoration-skip-ink:  none;
     text-decoration-thickness: 3px;
@@ -122,6 +123,10 @@
     border: 1px solid #FFF;
 }
 
+.lots {
+    margin-top: 175px;
+}
+
 .lots__heading {
     font-size: 40px;
     font-weight: 700;
@@ -208,6 +213,10 @@
     text-underline-offset: 3px;
 }
 
+.about {
+    margin-top: 115px;
+}
+
 .about__column {
     display: grid;
     grid-template-columns: 334px auto;
@@ -254,7 +263,7 @@
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-top: 85px;
+    margin-top: 182px;
     font-size: 18px;
     line-height: 24.3px;
     text-decoration-skip-ink:  none;
@@ -291,7 +300,7 @@
     width: 48px;
 }
 
-.footer__social-list{
+.footer__social-list {
     display: flex;
     list-style-type: none;
     justify-self: center;
